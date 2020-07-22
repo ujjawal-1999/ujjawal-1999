@@ -1,4 +1,4 @@
-![Animated gif demo](https://github.com/ujjawal-1999/ujjawal-1999/raw/master/4912mf.gif.gif)
+![Animated gif demo](https://github.com/ujjawal-1999/ujjawal-1999/raw/master/4912mf.gif)
 
 ### Hi there 👋
 
