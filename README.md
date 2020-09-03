@@ -25,5 +25,3 @@ I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Intrested in Web
 [![Codeforces](https://img.shields.io/badge/codeforces-insomniac__1999-red)](https://codeforces.com/profile/insomniac_1999)
 [![Codechef](https://img.shields.io/badge/codechef-ujjawal__1999-important)](https://www.codechef.com/users/ujjawal_1999)
 ![Ujjawal's Github Stats](https://github-readme-stats.vercel.app/api?username=ujjawal-1999&show_icons=true&theme=tokyonight)
-
-![Animated gif demo](https://github.com/ujjawal-1999/ujjawal-1999/raw/master/4912mf.gif)
