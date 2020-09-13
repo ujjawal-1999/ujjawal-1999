@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Intrested in Web Development, Cross-Platform Desktop Applications and Cloud. Also, an enthusiastic programmer.
+I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Interested in Web Development, Cross-Platform Desktop Applications and Cloud. Also, an enthusiastic programmer.
 
 - 🔭 I’m currently working on a ReactJs based Alumni Tracking Portal and an assembly language simulator.
 - 🌱 I’m currently learning GraphQL and Database management
