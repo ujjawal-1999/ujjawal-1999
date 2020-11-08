@@ -6,7 +6,6 @@ I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Interested in We
 - 🌱 I’m currently learning GraphQL and Database management
 - 👯 I’m looking to collaborate on Web and Desktop Application related projects
 - 💬 Ask me about Web development, cross-platform applications
-- 📫 How to reach me: [![Mail](https://img.shields.io/badge/mail-jainujjawal1999%40gmail.com-blue)](jainujjawal1999@gmail.com)
 
 
 ### Skills
