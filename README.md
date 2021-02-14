@@ -27,3 +27,5 @@ I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Interested in We
 ![Ujjawal's Github Stats](https://github-readme-stats.vercel.app/api?username=ujjawal-1999&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-1999&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/ujjawal-1999/count.svg)
