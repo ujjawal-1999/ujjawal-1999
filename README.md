@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Interested in Web Development, Cross-Platform Desktop Applications and Cloud. Also, an enthusiastic programmer.
+I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Interested in Web Development and Cloud. Also, an enthusiastic programmer.
 
 - 🔭 I’m currently working on a Blockchain Technology
 - 🌱 I’m currently learning Cloud Services
