@@ -3,20 +3,18 @@
 I am Ujjawal Jain, a Computer Science Undergrad at NIT Silchar. Interested in Web Development, Cross-Platform Desktop Applications and Cloud. Also, an enthusiastic programmer.
 
 - 🔭 I’m currently working on a Blockchain Technology
-- 🌱 I’m currently learning GraphQL and Database management
+- 🌱 I’m currently learning Cloud Services
 - 👯 I’m looking to collaborate on Web Apps and DApps
-- 💬 Ask me about Web development, cross-platform applications and Blockchain
+- 💬 Ask me about Web development and Blockchain
 
 ### Languages and Tools
 * Javascript
 * Node.js and Express
 * Reactjs
 * MongoDB and MySQL
-* Electron 
 * C and C++
 * Blockchain - Solidity
-* Assembly Language Programming
-* Linux Kernel Programming
+* PHP
 
 ### Find me at
 <p>
